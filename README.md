@@ -1,10 +1,15 @@
 **Labefood**
 
 Desenvolvedores:
+
 Kelvin de Sá Ferreira
+
 Jéssica Latorre
+
 Rachel de Araujo
+
 Tales dos Santos Gomes
+
 Douglas Sales Nunciato
 
 O projeto ainda está em desenvolvimento, não está finalizado.
